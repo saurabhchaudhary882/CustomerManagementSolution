@@ -1,6 +1,13 @@
 # CustomerManagementSolution
 
-This project captures customer biographic data and flight details prior to departure. It also sends notification emails for API and PNRGOV compliance.
+This is a self-contained Customer Management solution built using ASP.NET Core for both the front-end and back-end. The application enables basic CRUD (Create, Read, Update, Delete) operations for managing customer data, following a clean separation of concerns between the UI and API layers.
+
+## Key Features:
+
+- Add Customers: Users can create new customer records by entering biographic data (such as name, email, and contact details).
+- Edit Customers: Existing customer information can be updated via an easy-to-use form.
+- Delete Customers: Customers can be deleted from the database or data store.
+- Customer Listing: A simple UI displays a list of all customers with options to edit or delete them.
 
 ## Getting Started
 
